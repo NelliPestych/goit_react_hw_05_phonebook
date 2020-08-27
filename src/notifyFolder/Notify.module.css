@@ -1,0 +1,7 @@
+.notify {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    background-color: orange;
+    font-weight: bold;
+  }
